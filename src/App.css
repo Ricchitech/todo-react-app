@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.Todos-display {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
